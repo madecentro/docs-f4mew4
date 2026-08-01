@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-415e7h.congtogel76sdy.site/sitemap.xml
